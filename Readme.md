@@ -1,8 +1,11 @@
-# ml-data-playground
-This repo will contain python notebooks playing around open sourced datasets.
+# Data-Science-on-tabular-data
+Repo will contain notebooks/scripts on tabular data sets from Kaggle, Hackerearth and several other open source resources. This will help in understanding data science techniques from very basic Linear regression to deep neural nets on datasets that can be represented in the Tabular form.
 
+## Format
+> link_to_notebook__or_gist  |  brief_description  |  link_to_data_source  |  link_to_blog_post
 
-> `Total count of Jupyter Notebooks | 2`
+Every attempt on any dataset will be thoroughly explained in my blog.
+
 
 1. [rent-data-analysis.ipynb](https://github.com/x0v/ml-data-playground/blob/master/rent-data-analysis.ipynb) Notebook analysis rent of houses in various states of U.S | [Data Source](https://raw.githubusercontent.com/chrismetcalf/zillow-data/master/data/City/City_MedianRentalPrice_AllHomes.csv)
 
